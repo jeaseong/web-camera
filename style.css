@@ -46,3 +46,9 @@ body {
   right: 20px;
   z-index: 2;
 }
+
+.fix {
+  position: fixed;
+  top: 0;
+  z-index: 100;
+}
